@@ -16,7 +16,7 @@ body {
 }
 
 h2 {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: bold;
   margin: 0;
 }
@@ -46,7 +46,7 @@ span {
   text-align: center;
   font-size: 1.125rem;
   color: #f0eee8;
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: bold;
   background-color: #785439;
   padding: .4em .75em .5em;
