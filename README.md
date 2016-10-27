@@ -23,7 +23,13 @@ deliverables: "1 HTML file, 1 CSS file"
 - *Line heights*: `1.5`, `1.5rem`
 - *Paddings*: `1rem`, `.4em .75em .5em`
 - *Margins*: `0 0 1rem`
-- *Colours*: `#785439`, `#cabdb2`, `#512200`, `#9a816d`, `#dcd4cd`, `#f0eee8`
+- *Colours*:
+`#785439- span colour`,  
+`#512200- h2 darke st, body text`,
+`#9a816d- light border brown`,
+`#dcd4cd- div backgroubd colour`,
+`#cabdb2- creamy, darker than ^`,
+`#f0eee8- whiteish, learn more text`
 - *Border widths*: `3px`, `2px`
 - *Border radii*: `3px`, `8px`
 - *Expected classes*: `.link-card`
