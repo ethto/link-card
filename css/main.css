@@ -42,8 +42,7 @@ dd {
 }
 
 span {
-  display: block;
-  text-align: center;
+  display: inline-block;
   font-size: 1.125rem;
   color: #f0eee8;
   font-family: "Dosis", sans-serif;
@@ -51,7 +50,13 @@ span {
   background-color: #785439;
   padding: .4em .75em .5em;
   margin-top: .75em;
+  border-radius: 8px;
 
+}
+
+.btn {
+  display: block;
+  text-align: center;
 }
 
 dt, dd {
@@ -68,4 +73,5 @@ dt, dd {
 
 .link-card:hover {
   background-color: #cabdb2;
+
 }
